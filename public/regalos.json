@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Chupete",
+    "img": "chupete.png",
+    "price": 10000
+  },
+  {
+    "name": "Piano Musica y Luces",
+    "img": "pianoluces.png",
+    "price": 35000
+  },
+  {
+    "name": "Porta Bebé",
+    "img": "portabebe.png",
+    "price": 40000
+  },
+  {
+    "name": "Pack de Taollitas Humedas",
+    "img": "packtoallitas.png",
+    "price": 20000
+  }
+]
