@@ -1,0 +1,17 @@
+[
+  {
+    "name": "Cuna Colecho",
+    "img": "colecho.PNG",
+    "price": 60000
+  },
+  {
+    "name": "Cojin Antireflujo",
+    "img": "cojinreflujo.PNG",
+    "price": 15000
+  },
+  {
+    "name": "Coche",
+    "img": "coche.png",
+    "price": 200000
+  }
+]
